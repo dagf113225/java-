@@ -6,7 +6,13 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 import java.net.UnknownHostException;
-
+/**
+ * 查询角色
+ * 学生职务对应的数量
+ * 学生所学课程的数量|刘冬孝
+ * @author lenovo
+ *
+ */
 public class ClientApplication
 {
 	
