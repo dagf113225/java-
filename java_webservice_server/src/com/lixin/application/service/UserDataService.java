@@ -13,6 +13,8 @@ public class UserDataService {
 
 		Endpoint.publish("http://127.0.0.1:8100/userdataservice/user",
 				new UserServiceImpl());
+		
+	
 
 		System.out.println("UserDataService  服务发布成功....");
 
