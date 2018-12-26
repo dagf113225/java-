@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beans>
+
+ <bean  id="狗" class="com.lixin.ch2.Dog"></bean>
+ <bean  id="猫" class="com.lixin.ch2.Cat"></bean>
+ <bean  id="羊" class="com.lixin.ch2.Sheep"></bean>
+ 
+</beans>
