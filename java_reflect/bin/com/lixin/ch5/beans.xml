@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beans>
+
+<bean  id="login"  class="com.lixin.ch5.UserAction">
+  <property  value="dao"  ref="userdao"></property>
+</bean>
+
+<bean id="userdao" class="com.lixin.ch5.UserSqlServerDao">
+</bean>
+
+
+ 
+</beans>

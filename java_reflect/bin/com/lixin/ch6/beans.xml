@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beans>
+
+<bean  id="user_*"  class="com.lixin.ch6.UserAction">
+</bean>
+
+<bean  id="admin_*"  class="com.lixin.ch6.AdminAction">
+</bean>
+
+
+</beans>
